@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&display=swap');
+
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Gabarito', cursive;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nama {
+    font-weight: 700;
+}
+.kucing {
+    height:200px ;
+    width: 300px;
+}
+.deskripsi {
+    margin: 2rem;
+    font-weight: 400;
+    background-color: gray;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
