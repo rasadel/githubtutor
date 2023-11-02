@@ -1,0 +1,29 @@
+/*
+style internal lebih diprioritaskan
+
+* {
+} untuk semua element
+
+.class {
+}
+
+#id {
+}
+
+border-collapse
+POSITION:
+absolute = untuk gambar kecil di background
+fix
+sticky
+
+responsiveWeb
+
+
+
+*/
+* {
+    display: flex atau grid;
+    grid-template-columns: repeat(3,4);
+    grid-template-rows: repeat((4,5));
+    flex-wrap:min-content;
+}
